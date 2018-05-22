@@ -1,0 +1,16 @@
+DI python tanda %s %d digunakan untuk formating string.
+
+%s biasa untuk teks
+%d untuk angka
+%f untuk bilangan pecahan
+
+contoh
+nama = "Apa "
+print ("Kaba!r %s" % nama )
+
+maka akan menghasilkan 
+
+Apa Kabar!
+
+ini adalah teknik formating string cara lama, cara terbaru bisa dicek disini:
+http://pyformat.info/
